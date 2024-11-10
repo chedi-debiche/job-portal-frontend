@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.shadow-md:hover {
+  transition: all 0.3s ease;
+}
